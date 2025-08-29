@@ -81,12 +81,12 @@
   },
   "payment_accounts": {
     "bank_transfer": {
-      "bank_name": "Bank BRI",
-      "account_number": "1234-5678-9012-3456",
-      "account_name": "GEMBOK"
+      "bank_name": "Bank Mandiri",
+      "account_number": "1290012656530",
+      "account_name": "YULIUS YORDAN"
     },
     "cash": {
-      "office_address": "Jl. Contoh No. 123, Kota, Provinsi",
+      "office_address": "Jln. rawabinong lubang buaya",
       "office_hours": "08:00 - 17:00 WIB"
     }
   }
