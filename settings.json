@@ -8,7 +8,7 @@
   "company_header": "PT.ROCKET NETWORK SOLUTION",
   "footer_info": "Info Hubungi : 081296544048",
   
-  "admins.0": "6281296544048",
+  "admins.0": "6289505513443",
   "admin_enabled": "true",
   "admin_username": "jejejods",
   "admin_password": "jeje259",
@@ -17,7 +17,7 @@
   "technician_numbers.1": "62895340211775",
   "technician_group_id": "120363367245117134@g.us",
   
-  "genieacs_url": "http://172.16.20.3:3000",
+  "genieacs_url": "http://172.16.20.3:7557",
   "genieacs_username": "admin",
   "genieacs_password": "admin",
   
